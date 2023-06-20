@@ -2,8 +2,8 @@
 /*
  * main - Entry point
  *
- * Return: 0(success)
- * Description - prints aline
+ * Description: prints a line
+ * Return: 0(succes)
  */
 int main(void)
 {
