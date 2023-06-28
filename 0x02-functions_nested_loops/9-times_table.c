@@ -19,13 +19,13 @@ void times_table(void)
 
 			if (timesNo < 10)
 			{
-				_putchar(timesNo + '0');
+				_putchar(' ');
 			}
 			else
 			{
 				_putchar((timesNo / 10) + '0');
-				_putchar((timesNo % 10) + '0');
 			}
+			_putchar((timesNo % 10) + '0');
 			_putchar(',');
 			_putchar(' ');
 		}
