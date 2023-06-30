@@ -3,7 +3,7 @@
 #include <time.h>
 
 /**
- * main - the sum of the even-valued terms in fibonacci 
+ * main - the sum of the even-valued terms in fibonacci
  * Return: Always 0 (sucess)
  */
 
